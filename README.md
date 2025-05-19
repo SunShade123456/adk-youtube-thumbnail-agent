@@ -13,7 +13,7 @@ A powerful AI-powered system that generates professional YouTube thumbnails auto
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/adk-yt-thumbnail-generator.git
+git clone https://github.com/SunShade123456/adk-youtube-thumbnail-agent.git
 cd adk-yt-thumbnail-generator
 ```
 
